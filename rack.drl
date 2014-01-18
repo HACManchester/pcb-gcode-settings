@@ -1,0 +1,8 @@
+tool	drill_size	minimum	maximum	length 
+T01	0.400mm	0.301mm	0.500mm	5.000mm 
+T02	0.600mm	0.501mm	0.700mm	5.000mm 
+T03	0.800mm	0.701mm	0.900mm	5.000mm 
+T04	1.000mm	0.901mm	1.100mm	5.000mm 
+T05	1.200mm	1.101mm	1.300mm	5.000mm 
+T06	2.000mm	1.301mm	2.500mm	5.000mm 
+T07	3.000mm	2.501mm	3.500mm	5.000mm 
